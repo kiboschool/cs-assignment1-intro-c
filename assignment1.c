@@ -81,7 +81,6 @@ bool matchPatternY(const char *arg) {
     for (int i = 0; arg[i] != '\0'; i++) {
         sum += (int)arg[i];
     }
-    printf("%d\n", sum);
     return isPrime(sum);
 }
 
