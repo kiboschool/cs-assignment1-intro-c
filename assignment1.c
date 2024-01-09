@@ -67,10 +67,11 @@ int main(int argc, char *argv[]) {
 bool matchPatternX(const char *arg) {
     // Implement pattern matching for -x mode
     int len = strlen(arg);
+    if ((len & 1) == 0) return false; // must have a length that is odd.
 
     for (int i = 0; i < len; i++) {
-        if (i % 2 == 0 && !isdigit(arg[i])) return false;
-        if (i % 2 == 1 && !isalpha(arg[i])) return false;
+        if (!(i & 1) && !isdigit(arg[i])) return false;
+        if ((i & 1) && !isalpha(arg[i])) return false;
     }
     return true;
 }

@@ -1,0 +1,194 @@
+{
+    "tests": [
+        {
+            "name": "test_case_0 (test_assignment1.TestAssignment1.test_case_0)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_1 (test_assignment1.TestAssignment1.test_case_1)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_10 (test_assignment1.TestAssignment1.test_case_10)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_11 (test_assignment1.TestAssignment1.test_case_11)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_12 (test_assignment1.TestAssignment1.test_case_12)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_13 (test_assignment1.TestAssignment1.test_case_13)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_14 (test_assignment1.TestAssignment1.test_case_14)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_15 (test_assignment1.TestAssignment1.test_case_15)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_16 (test_assignment1.TestAssignment1.test_case_16)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_17 (test_assignment1.TestAssignment1.test_case_17)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_18 (test_assignment1.TestAssignment1.test_case_18)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_19 (test_assignment1.TestAssignment1.test_case_19)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_2 (test_assignment1.TestAssignment1.test_case_2)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_20 (test_assignment1.TestAssignment1.test_case_20)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_21 (test_assignment1.TestAssignment1.test_case_21)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_22 (test_assignment1.TestAssignment1.test_case_22)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_23 (test_assignment1.TestAssignment1.test_case_23)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_24 (test_assignment1.TestAssignment1.test_case_24)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_25 (test_assignment1.TestAssignment1.test_case_25)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_26 (test_assignment1.TestAssignment1.test_case_26)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_27 (test_assignment1.TestAssignment1.test_case_27)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_28 (test_assignment1.TestAssignment1.test_case_28)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_29 (test_assignment1.TestAssignment1.test_case_29)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_3 (test_assignment1.TestAssignment1.test_case_3)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_30 (test_assignment1.TestAssignment1.test_case_30)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_4 (test_assignment1.TestAssignment1.test_case_4)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_5 (test_assignment1.TestAssignment1.test_case_5)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_6 (test_assignment1.TestAssignment1.test_case_6)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_7 (test_assignment1.TestAssignment1.test_case_7)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_8 (test_assignment1.TestAssignment1.test_case_8)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        },
+        {
+            "name": "test_case_9 (test_assignment1.TestAssignment1.test_case_9)",
+            "score": 1,
+            "max_score": 1,
+            "status": "passed"
+        }
+    ],
+    "leaderboard": [],
+    "visibility": "visible",
+    "execution_time": "0.86",
+    "score": 31
+}

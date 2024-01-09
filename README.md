@@ -104,9 +104,9 @@ matching arguments (specified below) and prints nothing for non-matching argumen
 **Patterns and Conversions:**
 
 - **-x mode:**
-  - Match a sequence of alternating digits and letters (e.g., `1a2b3c`), ending with a digit.
+  - Match a sequence of alternating digits and letters (e.g., `1a2b3`), ending with a digit.
   - For matches with `-v`, convert each character to its ASCII value.
-  - Example: `1a2b` → `1-97-2-98`
+  - Example: `1a2b3` → `1-97-2-98-3`
 
 - **-y mode:**
   - Match any string where the sum of ASCII values of all characters is a prime number.
