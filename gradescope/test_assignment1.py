@@ -4,7 +4,7 @@ from gradescope_utils.autograder_utils.decorators import weight
 
 executable_name = "assignment1"
 
-compile_command = ["gcc", "assignment1.c", "-o", executable_name]
+compile_command = ["gcc", "assignment1.c", "-o", executable_name, "-lm"]
 
 # Each test case is a tuple: (command-line arguments, expected output, weight)
 test_cases = [
@@ -49,7 +49,6 @@ test_cases = [
 
 # Compile the C program
 def compile_program(executable_name):
-    compile_command = ["gcc", "assignment1.c", "-o", executable_name]
     try:
         subprocess.check_call(compile_command)
         return True
